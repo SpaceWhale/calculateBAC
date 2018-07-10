@@ -1,4 +1,9 @@
 package constants;
 
-public class Gender {
+/**
+ * Looking for ways to improve this.
+ */
+public enum Gender {
+    MALE,
+    FEMALE
 }

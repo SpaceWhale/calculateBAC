@@ -1,4 +1,4 @@
 package entities.imperial;
 
-public class drinkingSession {
+public class ImperialDrinkingSession {
 }

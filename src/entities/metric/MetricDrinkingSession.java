@@ -1,4 +1,4 @@
 package entities.metric;
 
-public class drinkingSession {
+public class MetricDrinkingSession {
 }

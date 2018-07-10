@@ -2,7 +2,7 @@ package converters;
 import constants.MassConstants;
 
 
-public class BasicMassConverter {
+public class MassConverter {
 
     public float poundToKilogram(float pounds) {
         return (pounds / MassConstants.kilogramInPounds);
